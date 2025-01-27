@@ -3,3 +3,4 @@ outputFiles/
 venv/
 .idea/
 __pycache__/
+pyvenv.cfg
